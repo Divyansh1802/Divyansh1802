@@ -1,16 +1,22 @@
-## Hi there 👋
+# 💫 About Me:
+🔭 I’m currently working on<br>Building backend-heavy applications using Spring Boot, focusing on microservices architecture. I’ve worked with services like User Auth, Product, Order, Payment, Cart, API Gateway, Config Server, Eureka Server, and Email Service, and I actively practice clean architecture, REST APIs, and security. I’m also exploring Dockerization and backend system design.<br><br>🌱 I’m currently learning<br>The MERN stack (MongoDB, Express, React, Node.js) to strengthen my full-stack skills, while simultaneously deepening my backend knowledge in Spring Security, JWT, OAuth concepts, WebClient, reactive MongoDB, and scalable system patterns.<br><br>👯 I’m looking to collaborate on<br>Backend or full-stack projects, especially those involving Spring Boot microservices, REST APIs, authentication systems, e-commerce platforms, or MERN applications. I enjoy working on real-world problem-solving projects that can be deployed and scaled.<br><br>🤔 I’m looking for help with<br>Advanced system design, DevOps practices (Docker, Kubernetes, CI/CD), and improving production-ready backend architecture. I’m also interested in learning best practices for cloud deployment and performance optimization.<br><br>💬 Ask me about<br>Java, Spring Boot, Microservices, Spring Security, MongoDB, PostgreSQL, REST APIs, backend debugging, or how to structure scalable backend projects.<br><br>📫 How to reach me:<br>Through GitHub, or by connecting with me for project collaboration and technical discussions.<br><br>😄 Pronouns:<br>He / Him<br><br>⚡ Fun fact:<br>I prefer backend logic over UI, enjoy debugging complex errors, and believe that a well-designed API is more satisfying than a flashy frontend.
 
-<!--
-**Divyansh1802/Divyansh1802** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Diivyansh_ig) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Divyansh Upadhyay) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:divyanshupadhyay1802@gmail.com) 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Divyansh1802&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Divyansh1802&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Divyansh1802&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+
+
+
+
+---
+[![](https://visitcount.itsvg.in/api?id=Divyansh1802&icon=8&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
